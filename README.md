@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Naqibur-Rehman
+- 👋 Hi, I’m @Naqibur Rehman
 - 👀 I’m interested in technical stuffs...
-- 🌱 I’m a student at Kanpur Institute of Technology
+- 🌱 I’m a CSE graduate @2022
 - 📫 you can contact me at instagram @iamnaqeeb
 
 <!---
