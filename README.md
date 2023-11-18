@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Naqibur Rehman
-- 👀 I’m interested in technical stuffs...
+- 👀 I’m interested in full-stack development | web development
 - 🌱 I’m a CSE graduate @2022
-- 📫 you can contact me at instagram @iamnaqeeb
 
 <!---
 Naqibur-Rehman/Naqibur-Rehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
