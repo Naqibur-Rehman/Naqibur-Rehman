@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Naqibur Rehman
-- 👀 I’m interested in full-stack development | web development
+# 👋 Hi, I’m @Naqibur Rehman
+- 👀 I’m a full-stack developer | web developer
 - 🌱 I’m a CSE graduate @2022
 
 <!---
