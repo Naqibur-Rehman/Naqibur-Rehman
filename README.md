@@ -77,6 +77,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 <!---
 Naqibur-Rehman/Naqibur-Rehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
