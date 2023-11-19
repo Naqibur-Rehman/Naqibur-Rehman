@@ -71,13 +71,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naqibur-Rehman&show_icons=true&locale=en&layout=compact&theme=tokyonight" align = "center"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-
+![Snake animation](https://github.com/Naqibur-Rehman/Naqibur-Rehman/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Naqibur-Rehman/Naqibur-Rehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
